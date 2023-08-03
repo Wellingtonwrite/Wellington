@@ -1,0 +1,23 @@
+.boton{
+    
+    background-color: rgb(69, 199, 156);
+    font-size: 30px ;
+    align-items: center;
+    width: 350px;
+    height: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+}
+
+
+body{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
