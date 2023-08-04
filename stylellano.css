@@ -1,15 +1,16 @@
 .btn {
+  
     margin: 10px;
     box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.7);;
     cursor: pointer;
     border-radius: 10px;
-    height: 50px;
-    width: 200px;
+    height: 100%;
+    width: 100%;
     align-items: center;
     font-size: 30px ;
     justify-content: center
- 
+    
 }
 .boton.btn {
     
