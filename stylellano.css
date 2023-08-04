@@ -1,16 +1,15 @@
 .btn {
-    
+    margin: 10px;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(255, 255, 255, 0.7);;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
     align-items: center;
     font-size: 30px ;
     justify-content: center
-    width: 200px;
-    height: 50px;
-    border-radius: 10px;
-    cursor: pointer;
-    border: none;
-    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
-    -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
-    margin: 10px; 
+ 
 }
 .boton.btn {
     
@@ -30,6 +29,7 @@ body{
     min-height: 100vh;
     margin: 0;
     background-color: rgb(209, 214, 223);
+    overflow: hidden;
 }
 
 
